@@ -1,55 +1,55 @@
-,Location,Cases,Case Range,AsOf
-0,Alabama,105,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-1,Alaska,5,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-2,Arizona,430,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-3,Arkansas,56,51 to 100,Data as of September 21 2022 at 2:00 pm EDT
-4,California,4753,>500,Data as of September 21 2022 at 2:00 pm EDT
-5,Colorado,263,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-6,Connecticut,123,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-7,Delaware,35,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-8,District of Columbia,488,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-9,Florida,2422,>500,Data as of September 21 2022 at 2:00 pm EDT
-10,Georgia,1717,>500,Data as of September 21 2022 at 2:00 pm EDT
-11,Hawaii,27,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-12,Idaho,12,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-13,Illinois,1263,>500,Data as of September 21 2022 at 2:00 pm EDT
-14,Indiana,218,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-15,Iowa,24,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-16,Kansas,9,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-17,Kentucky,50,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-18,Louisiana,234,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-19,Maine,9,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-20,Maryland,631,>500,Data as of September 21 2022 at 2:00 pm EDT
-21,Massachusetts,374,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-22,Michigan,257,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-23,Minnesota,178,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-24,Mississippi,70,51 to 100,Data as of September 21 2022 at 2:00 pm EDT
-25,Missouri,84,51 to 100,Data as of September 21 2022 at 2:00 pm EDT
-26,Montana,5,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-27,Nebraska,28,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-28,Nevada,217,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-29,New Hampshire,28,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-30,New Jersey,668,>500,Data as of September 21 2022 at 2:00 pm EDT
-31,New Mexico,40,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-32,New York,3810,>500,Data as of September 21 2022 at 2:00 pm EDT
-33,Non-US Resident,3,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-34,North Carolina,434,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-35,North Dakota,5,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-36,Ohio,257,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-37,Oklahoma,36,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-38,Oregon,203,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-39,Pennsylvania,713,>500,Data as of September 21 2022 at 2:00 pm EDT
-40,Puerto Rico,167,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-41,Rhode Island,70,51 to 100,Data as of September 21 2022 at 2:00 pm EDT
-42,South Carolina,149,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-43,South Dakota,2,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-44,Tennessee,264,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-45,Texas,2179,>500,Data as of September 21 2022 at 2:00 pm EDT
-46,Total,24364,,Data as of September 21 2022 at 2:00 pm EDT
-47,Utah,149,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-48,Vermont,3,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
-49,Virginia,440,101 to 500,Data as of September 21 2022 at 2:00 pm EDT
-50,Washington,575,>500,Data as of September 21 2022 at 2:00 pm EDT
-51,West Virginia,11,11 to 50,Data as of September 21 2022 at 2:00 pm EDT
-52,Wisconsin,69,51 to 100,Data as of September 21 2022 at 2:00 pm EDT
-53,Wyoming,2,1 to 10,Data as of September 21 2022 at 2:00 pm EDT
+,Location,Cases,Case_Range,AsOf
+0,Non-US Resident,3,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+1,Alabama,112,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+2,Alaska,5,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+3,Arizona,436,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+4,Arkansas,56,51 to 100,Data as of September 22 2022 at 2:00 pm EDT
+5,California,4753,>500,Data as of September 22 2022 at 2:00 pm EDT
+6,Colorado,263,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+7,Connecticut,124,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+8,Delaware,36,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+9,District of Columbia,493,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+10,Florida,2422,>500,Data as of September 22 2022 at 2:00 pm EDT
+11,Georgia,1723,>500,Data as of September 22 2022 at 2:00 pm EDT
+12,Hawaii,27,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+13,Idaho,12,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+14,Illinois,1267,>500,Data as of September 22 2022 at 2:00 pm EDT
+15,Indiana,221,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+16,Iowa,25,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+17,Kansas,9,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+18,Kentucky,50,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+19,Louisiana,240,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+20,Maine,9,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+21,Maryland,637,>500,Data as of September 22 2022 at 2:00 pm EDT
+22,Massachusetts,381,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+23,Michigan,257,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+24,Minnesota,180,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+25,Mississippi,71,51 to 100,Data as of September 22 2022 at 2:00 pm EDT
+26,Missouri,84,51 to 100,Data as of September 22 2022 at 2:00 pm EDT
+27,Montana,5,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+28,Nebraska,28,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+29,Nevada,217,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+30,New Hampshire,28,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+31,New Jersey,676,>500,Data as of September 22 2022 at 2:00 pm EDT
+32,New Mexico,40,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+33,New York,3820,>500,Data as of September 22 2022 at 2:00 pm EDT
+34,North Carolina,512,>500,Data as of September 22 2022 at 2:00 pm EDT
+35,North Dakota,6,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+36,Ohio,259,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+37,Oklahoma,36,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+38,Oregon,205,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+39,Pennsylvania,719,>500,Data as of September 22 2022 at 2:00 pm EDT
+40,Puerto Rico,170,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+41,Rhode Island,72,51 to 100,Data as of September 22 2022 at 2:00 pm EDT
+42,South Carolina,153,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+43,South Dakota,2,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+44,Tennessee,268,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+45,Texas,2195,>500,Data as of September 22 2022 at 2:00 pm EDT
+46,Utah,149,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+47,Vermont,3,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+48,Virginia,452,101 to 500,Data as of September 22 2022 at 2:00 pm EDT
+49,Washington,579,>500,Data as of September 22 2022 at 2:00 pm EDT
+50,West Virginia,11,11 to 50,Data as of September 22 2022 at 2:00 pm EDT
+51,Wisconsin,69,51 to 100,Data as of September 22 2022 at 2:00 pm EDT
+52,Wyoming,2,1 to 10,Data as of September 22 2022 at 2:00 pm EDT
+53,Total,24572,,Data as of September 22 2022 at 2:00 pm EDT
