@@ -1,52 +1,52 @@
 ,Location,Cases,Case_Range,AsOf,State,Abbreviation,pop_est_2021,per100k
-0,Alabama,112,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Alabama,AL,5039877,2.222276456350026
-1,Alaska,5,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Alaska,AK,732673,0.6824326814281405
-2,Arizona,436,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Arizona,AZ,7276316,5.992043226269997
-3,Arkansas,56,51 to 100,Data as of September 22 2022 at 2:00 pm EDT,Arkansas,AR,3025891,1.8506945557523389
-4,California,4753,>500,Data as of September 22 2022 at 2:00 pm EDT,California,CA,39237836,12.113308185497283
-5,Colorado,263,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Colorado,CO,5812069,4.525066718925739
-6,Connecticut,124,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Connecticut,CT,3605597,3.4390976029767053
-7,Delaware,36,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Delaware,DL,1003384,3.587858686205879
-8,District of Columbia,493,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,District of Columbia,DC,670050,73.57659876128648
-9,Florida,2422,>500,Data as of September 22 2022 at 2:00 pm EDT,Florida,FL,21781128,11.119717950328376
-10,Georgia,1723,>500,Data as of September 22 2022 at 2:00 pm EDT,Georgia,GA,10799566,15.954344832005285
-11,Hawaii,27,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Hawaii,HI,1441553,1.8729800430507932
-12,Idaho,12,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Idaho,ID,1900923,0.6312722819388266
-13,Illinois,1267,>500,Data as of September 22 2022 at 2:00 pm EDT,Illinois,IL,12671469,9.998840702684117
-14,Indiana,221,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Indiana,IN,6805985,3.2471420374861246
-15,Iowa,25,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Iowa,IA,3193079,0.7829433596851191
-16,Kansas,9,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Kansas,KS,2934582,0.30668763047002945
-17,Kentucky,50,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Kentucky,KY,4509394,1.1087964369491776
-18,Louisiana,240,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Louisiana,LA,4624047,5.190258663028295
-19,Maine,9,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Maine,ME,1372247,0.6558586027151089
-20,Maryland,637,>500,Data as of September 22 2022 at 2:00 pm EDT,Maryland,MD,6165129,10.332306104219393
-21,Massachusetts,381,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Massachusetts,MA,6984723,5.454761770796065
-22,Michigan,257,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Michigan,MI,10050811,2.557007588740849
-23,Minnesota,180,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Minnesota,MN,5707390,3.1538058552157815
-24,Mississippi,71,51 to 100,Data as of September 22 2022 at 2:00 pm EDT,Mississippi,MS,2949965,2.406808216368669
-25,Missouri,84,51 to 100,Data as of September 22 2022 at 2:00 pm EDT,Missouri,MO,6168187,1.3618264167412564
-26,Montana,5,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Montana,MT,1104271,0.4527874045410954
-27,Nebraska,28,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Nebraska,NE,1963692,1.4258855258360272
-28,Nevada,217,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Nevada,NV,3143991,6.902055381201791
-29,New Hampshire,28,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,New Hampshire,NH,1388992,2.0158503432705155
-30,New Jersey,676,>500,Data as of September 22 2022 at 2:00 pm EDT,New Jersey,NJ,9267130,7.294599298812037
-31,New Mexico,40,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,New Mexico,NM,2115877,1.8904690584566115
-32,New York,3820,>500,Data as of September 22 2022 at 2:00 pm EDT,New York,NY,19835913,19.25799936710753
-33,North Carolina,512,>500,Data as of September 22 2022 at 2:00 pm EDT,North Carolina,NC,10551162,4.852546098714057
-34,North Dakota,6,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,North Dakota,ND,774948,0.7742454977624305
-35,Ohio,259,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Ohio,OH,11780017,2.198638592796598
-36,Oklahoma,36,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,Oklahoma,OK,3986639,0.9030163001967322
-37,Oregon,205,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Oregon,OR,4246155,4.82789723879604
-38,Pennsylvania,719,>500,Data as of September 22 2022 at 2:00 pm EDT,Pennsylvania,PA,12964056,5.546103781100606
-39,Rhode Island,72,51 to 100,Data as of September 22 2022 at 2:00 pm EDT,Rhode Island,RI,1095610,6.5716815290112365
-40,South Carolina,153,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,South Carolina,SC,5190705,2.9475764852751216
-41,South Dakota,2,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,South Dakota,SD,895376,0.223369846857633
-42,Tennessee,268,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Tennessee,TN,6975218,3.8421738216640686
-43,Texas,2195,>500,Data as of September 22 2022 at 2:00 pm EDT,Texas,TX,29527941,7.433637177749712
-44,Utah,149,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Utah,UT,3337975,4.463784180528614
-45,Vermont,3,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Vermont,VT,645570,0.4647056089967006
-46,Virginia,452,101 to 500,Data as of September 22 2022 at 2:00 pm EDT,Virginia,VA,8642274,5.230104946915592
-47,Washington,579,>500,Data as of September 22 2022 at 2:00 pm EDT,Washington,WA,7738692,7.4818845355261585
-48,West Virginia,11,11 to 50,Data as of September 22 2022 at 2:00 pm EDT,West Virginia,WV,1782959,0.6169519321532352
-49,Wisconsin,69,51 to 100,Data as of September 22 2022 at 2:00 pm EDT,Wisconsin,WI,5895908,1.1703032001177767
-50,Wyoming,2,1 to 10,Data as of September 22 2022 at 2:00 pm EDT,Wyoming,WY,578803,0.34554071074268794
+0,Alabama,112,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Alabama,AL,5039877,2.222276456350026
+1,Alaska,5,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Alaska,AK,732673,0.6824326814281405
+2,Arizona,446,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Arizona,AZ,7276316,6.129475410358759
+3,Arkansas,56,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Arkansas,AR,3025891,1.8506945557523389
+4,California,4886,>500,Data as of September 23 2022 at 2:00 pm EDT,California,CA,39237836,12.452266735606928
+5,Colorado,263,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Colorado,CO,5812069,4.525066718925739
+6,Connecticut,124,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Connecticut,CT,3605597,3.4390976029767053
+7,Delaware,36,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Delaware,DL,1003384,3.587858686205879
+8,District of Columbia,494,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,District of Columbia,DC,670050,73.72584135512275
+9,Florida,2444,>500,Data as of September 23 2022 at 2:00 pm EDT,Florida,FL,21781128,11.220722820232266
+10,Georgia,1736,>500,Data as of September 23 2022 at 2:00 pm EDT,Georgia,GA,10799566,16.074720039675668
+11,Hawaii,27,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Hawaii,HI,1441553,1.8729800430507932
+12,Idaho,12,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Idaho,ID,1900923,0.6312722819388266
+13,Illinois,1270,>500,Data as of September 23 2022 at 2:00 pm EDT,Illinois,IL,12671469,10.022515937181396
+14,Indiana,223,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Indiana,IN,6805985,3.276527938277854
+15,Iowa,25,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Iowa,IA,3193079,0.7829433596851191
+16,Kansas,9,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Kansas,KS,2934582,0.30668763047002945
+17,Kentucky,51,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Kentucky,KY,4509394,1.1309723656881612
+18,Louisiana,243,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Louisiana,LA,4624047,5.255136896316149
+19,Maine,9,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Maine,ME,1372247,0.6558586027151089
+20,Maryland,636,>500,Data as of September 23 2022 at 2:00 pm EDT,Maryland,MD,6165129,10.316085843459236
+21,Massachusetts,381,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Massachusetts,MA,6984723,5.454761770796065
+22,Michigan,257,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Michigan,MI,10050811,2.557007588740849
+23,Minnesota,182,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Minnesota,MN,5707390,3.1888481424959574
+24,Mississippi,73,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Mississippi,MS,2949965,2.474605630914265
+25,Missouri,84,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Missouri,MO,6168187,1.3618264167412564
+26,Montana,5,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Montana,MT,1104271,0.4527874045410954
+27,Nebraska,28,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Nebraska,NE,1963692,1.4258855258360272
+28,Nevada,218,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Nevada,NV,3143991,6.933862088027606
+29,New Hampshire,29,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,New Hampshire,NH,1388992,2.0878449983873195
+30,New Jersey,683,>500,Data as of September 23 2022 at 2:00 pm EDT,New Jersey,NJ,9267130,7.370135090367784
+31,New Mexico,40,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,New Mexico,NM,2115877,1.8904690584566115
+32,New York,3842,>500,Data as of September 23 2022 at 2:00 pm EDT,New York,NY,19835913,19.368909311106577
+33,North Carolina,512,>500,Data as of September 23 2022 at 2:00 pm EDT,North Carolina,NC,10551162,4.852546098714057
+34,North Dakota,6,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,North Dakota,ND,774948,0.7742454977624305
+35,Ohio,263,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Ohio,OH,11780017,2.232594401179557
+36,Oklahoma,36,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,Oklahoma,OK,3986639,0.9030163001967322
+37,Oregon,205,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Oregon,OR,4246155,4.82789723879604
+38,Pennsylvania,724,>500,Data as of September 23 2022 at 2:00 pm EDT,Pennsylvania,PA,12964056,5.584671957603391
+39,Rhode Island,73,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Rhode Island,RI,1095610,6.662954883580836
+40,South Carolina,156,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,South Carolina,SC,5190705,3.005372102633457
+41,South Dakota,2,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,South Dakota,SD,895376,0.223369846857633
+42,Tennessee,273,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Tennessee,TN,6975218,3.913856169083174
+43,Texas,2225,>500,Data as of September 23 2022 at 2:00 pm EDT,Texas,TX,29527941,7.535235863550391
+44,Utah,149,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Utah,UT,3337975,4.463784180528614
+45,Vermont,3,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Vermont,VT,645570,0.4647056089967006
+46,Virginia,452,101 to 500,Data as of September 23 2022 at 2:00 pm EDT,Virginia,VA,8642274,5.230104946915592
+47,Washington,583,>500,Data as of September 23 2022 at 2:00 pm EDT,Washington,WA,7738692,7.5335728570151135
+48,West Virginia,11,11 to 50,Data as of September 23 2022 at 2:00 pm EDT,West Virginia,WV,1782959,0.6169519321532352
+49,Wisconsin,69,51 to 100,Data as of September 23 2022 at 2:00 pm EDT,Wisconsin,WI,5895908,1.1703032001177767
+50,Wyoming,2,1 to 10,Data as of September 23 2022 at 2:00 pm EDT,Wyoming,WY,578803,0.34554071074268794
